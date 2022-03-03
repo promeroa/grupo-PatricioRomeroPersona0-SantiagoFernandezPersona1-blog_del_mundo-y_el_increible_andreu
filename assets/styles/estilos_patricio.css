@@ -2,4 +2,35 @@ body {
     background-color: rgb(44, 43, 43);
     color: aliceblue;
 }
-nav>ul>li {color: gold;}
+p{
+    color:rgb(255, 0, 0);
+    front-size:medium;
+    text-align: justify;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+article{
+    background-color: rgb(red, green, blue);
+    padding: 1.5rem;
+    border-bottom: 1px solid #ffffff;
+}
+nav>ul>li {
+    color: black;
+
+}
+nav>ul>li>a {
+    text-decoration: none;
+}
+.titulo_del_blog{ text-align: center;
+font-size: 2rem;
+}
+#footerblog{
+    margin: 2rem;
+}
+.ilustracion figcaption{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-style: italic;
+}
