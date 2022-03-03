@@ -12,7 +12,7 @@ h2{
     color: white;
 }
 article{
-    background-color: rgb(red, green, blue);
+    background-color: rgb(44, 43, 43);
     padding: 1.5rem;
     border-bottom: 1px solid #ffffff;
 }
@@ -33,4 +33,9 @@ font-size: 2rem;
     margin-top: 1rem;
     margin-left: 1rem;
     font-style: italic;
+}
+.ilustracion{
+    border: white 4px solid;
+}
+.principal{background-color: aqua;
 }
