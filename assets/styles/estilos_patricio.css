@@ -3,7 +3,7 @@ body {
     color: aliceblue;
 }
 p{
-    color:rgb(255, 0, 0);
+    color:rgb(255, 255, 255);
     front-size:medium;
     text-align: justify;
 }
@@ -12,7 +12,7 @@ h2{
     color: white;
 }
 article{
-    background-color: rgb(44, 43, 43);
+    background-color: rgb(88, 88, 82);
     padding: 1.5rem;
     border-bottom: 1px solid #ffffff;
 }
@@ -35,7 +35,5 @@ font-size: 2rem;
     font-style: italic;
 }
 .ilustracion{
-    border: white 4px solid;
-}
-.principal{background-color: aqua;
-}
+    border: white 4px solid;}
+    
