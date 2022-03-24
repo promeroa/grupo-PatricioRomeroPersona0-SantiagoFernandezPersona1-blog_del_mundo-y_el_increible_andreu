@@ -4,7 +4,7 @@ body {
 }
 p{
     color:rgb(255, 255, 255);
-    front-size:medium;
+    font-size: medium;
     text-align: justify;
 }
 h2{
@@ -59,4 +59,7 @@ aside{
 }
 footer{
     grid-column: span 12;
+}
+nav{
+ font-size: 1.3rem;
 }
